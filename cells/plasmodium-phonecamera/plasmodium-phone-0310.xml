@@ -1,0 +1,56 @@
+<annotation>
+	<source>
+		<database>Makerere Automated Lab Diagnostics Database</database>
+		<annotation>Makerere University</annotation>
+		<image>Mulago National Referral Hospital</image>
+	</source>
+	<segmented>0</segmented>
+	<object>
+		<label>plasmodium</label>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>394.2736</xmin>
+			<ymin>137.728</ymin>
+			<xmax>434.2736</xmax>
+			<ymax>177.728</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<label>plasmodium</label>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1.5372</xmin>
+			<ymin>253.0152</ymin>
+			<xmax>41.5372</xmax>
+			<ymax>293.0152</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<label>plasmodium</label>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>443.5417</xmin>
+			<ymin>607.2321</ymin>
+			<xmax>483.5417</xmax>
+			<ymax>647.2321</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<label>plasmodium</label>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>570.0298</xmin>
+			<ymin>384.0179</ymin>
+			<xmax>610.0298</xmax>
+			<ymax>424.0179</ymax>
+		</bndbox>
+	</object>
+</annotation>
